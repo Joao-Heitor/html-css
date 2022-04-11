@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Outras formatações</title>
+</head>
+<body>
+    <h1>Outras formatações</h1>
+    <h2>Código-fonte / pré-formatação</h2>
+    <p>O comando <code>document.getElementById('test')</code> é escrito em linguagem JavaScript</p><!--A tag code é utilizada para colocar uma fonte de letra monoespaçada para faciliar a leitura-->
+    <pre>
+        <code>
+    num = int(input("Digite um número"))
+    if mun % 2 == 0:
+        print(f"O número {num} é par)
+    else:
+        print(f"O número {num} é ímpar)
+        </code>
+    </pre>
+    <!--A tag pre exibe o texto da forma que ele foi escrito, incluindo espaçamentos e quebras de linha-->
+    <h2>Citações simples</h2>
+    <p>Como diria o pai de um amigo; <q>O computador é um burro muito rapido</q></p>
+    <!--Coloca aspas na frase para indica uma sitação, utiliza-se a tag para o programa entenser a semantica  -->
+    <h2>Citações completas</h2>
+    <p>Segundo Jeff noble, no seu livro de HTML para Leigos:
+        <blockquote cite=https://www.google.com.br/books/edition/HTML_XHTML_e_CSS_Para_Leigos/E8ZtDwAAQBAJ?hl=pt-BR&gbpv=1&dq=html+leigos&printsec=frontcover>
+            A diferença entre elementos inline e um bloco de texto é importante. Os elementos HTML neste capítulo descrevem os blocos de texto
+        </blockquote>
+        <!--O cite não aparece visualmente é apenas uma ferramenta para o mecanismo de Busca-->
+    </p>
+    <h2>Abreviações</h2>
+    Estou estudando <abbr title="HyperText Markup Language">HTML</abbr> e <abbr title="Cascading Style Sheets">CSS</abbr>. Estou adorando! <br>
+    Para ver a tag abbr funcionando passe o mouse em cima das palavras pontilhadas
+    <h2>Texto invertido</h2>
+    <p><bdo dir="rtl">Estou aprendendo a criar texto invertido</bdo></p>
+</body>
+</html>
