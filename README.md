@@ -1,6 +1,6 @@
 # html-css
- Curso de HTML5 e CSS3 do CursoemVideo <br><br>
-
+ Curso de HTML5 e CSS3 do CursoemVideo 
+ Contem também alguns outros projetos feitos fora do curso em “diferentes”
  <p>Diferentes</p>
 
 <a href = "https://joao-heitor.github.io/html-css/flexblog/"> FlexBlog </a>
