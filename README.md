@@ -2,8 +2,8 @@
  Curso de HTML5 e CSS3 do CursoemVideo <br><br>
 
  <p>Diferentes</p>
-<a href = "https://joao-heitor.github.io/html-css/flexblog/"> FlexBlog </a><br>
-
+<a href = "https://joao-heitor.github.io/html-css/flexblog/"> FlexBlog </a>
+<br>
 
 <p>Desafios na Prática</p>
 <br>
