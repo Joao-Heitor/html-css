@@ -2,11 +2,10 @@
  Curso de HTML5 e CSS3 do CursoemVideo <br><br>
 
  <p>Diferentes</p>
+
 <a href = "https://joao-heitor.github.io/html-css/flexblog/"> FlexBlog </a>
-<br>
 
 <p>Desafios na Prática</p>
-<br>
 
 <a href = "https://joao-heitor.github.io/html-css/desafios/d005/"> Executar o desafio 005 </a><br>
 <a href = "https://joao-heitor.github.io/html-css/desafios/d006/"> Executar o desafio 006 </a><br>
@@ -18,7 +17,6 @@
 <a href = "https://joao-heitor.github.io/html-css/desafios/d012/"> Executar o desafio 012 (Projeto-Cordel)</a><br>
 
 <p>Exercícios na Prática</p>
-<br>
 
 <a href = "https://joao-heitor.github.io/html-css/exercicios/ex001/"> Executar o exercicio 001 </a><br>
 <a href = "https://joao-heitor.github.io/html-css/exercicios/ex002/"> Executar o exercicio 002 </a><br>
